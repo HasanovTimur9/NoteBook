@@ -1,0 +1,33 @@
+[
+    {
+        "Tags": [
+            "спорт\u0000"
+        ],
+        "author": "User2\u0000",
+        "cTime": {
+            "day": 16,
+            "hour": 3,
+            "minute": 21,
+            "month": 3,
+            "year": 2025
+        },
+        "eTime": {
+            "day": 19,
+            "hour": 10,
+            "minute": 14,
+            "month": 3,
+            "year": 2025
+        },
+        "meetingTime": {
+            "day": 21,
+            "hour": 14,
+            "minute": 0,
+            "month": 3,
+            "year": 2025
+        },
+        "name": "Имя3\u0000",
+        "place": "Зал\u0000",
+        "text": "текст\u0000",
+        "type": "Meeting"
+    }
+]

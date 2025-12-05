@@ -1,0 +1,5 @@
+C:\Users\Hasan\source\repos\Hasanov_NoteBook\Hasanov_NoteBook\x64\Debug\Hasanov_NoteBook.vcxproj.AssemblyReference.cache
+C:\Users\Hasan\source\repos\Hasanov_NoteBook\Hasanov_NoteBook\x64\Debug\HasanovNoteBook.Editing_Form.resources
+C:\Users\Hasan\source\repos\Hasanov_NoteBook\Hasanov_NoteBook\x64\Debug\HasanovNoteBook.Menu_Form.resources
+C:\Users\Hasan\source\repos\Hasanov_NoteBook\Hasanov_NoteBook\x64\Debug\HasanovNoteBook.Stat_Form.resources
+C:\Users\Hasan\source\repos\Hasanov_NoteBook\Hasanov_NoteBook\x64\Debug\Hasanov_NoteBook.vcxproj.GenerateResource.cache

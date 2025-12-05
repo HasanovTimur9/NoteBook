@@ -1,0 +1,65 @@
+[
+    {
+        "Tags": [
+            "важное\u0000"
+        ],
+        "author": "User1\u0000",
+        "cTime": {
+            "day": 15,
+            "hour": 3,
+            "minute": 20,
+            "month": 3,
+            "year": 2025
+        },
+        "deadLine": {
+            "day": 28,
+            "hour": 18,
+            "minute": 0,
+            "month": 3,
+            "year": 2025
+        },
+        "done": false,
+        "eTime": {
+            "day": 19,
+            "hour": 10,
+            "minute": 13,
+            "month": 3,
+            "year": 2025
+        },
+        "name": "Имя2\u0000",
+        "text": "текст\u0000",
+        "type": "Task"
+    },
+    {
+        "Tags": [
+            "тэг1\u0000",
+            "тэг2\u0000"
+        ],
+        "author": "User2\u0000",
+        "cTime": {
+            "day": 19,
+            "hour": 10,
+            "minute": 17,
+            "month": 3,
+            "year": 2025
+        },
+        "deadLine": {
+            "day": 28,
+            "hour": 10,
+            "minute": 0,
+            "month": 3,
+            "year": 2025
+        },
+        "done": false,
+        "eTime": {
+            "day": 19,
+            "hour": 10,
+            "minute": 17,
+            "month": 3,
+            "year": 2025
+        },
+        "name": "Имя4\u0000",
+        "text": "тест\u0000",
+        "type": "Task"
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "Tags": [
+            "тест\u0000"
+        ],
+        "author": "Тимур\u0000",
+        "cTime": {
+            "day": 16,
+            "hour": 2,
+            "minute": 47,
+            "month": 3,
+            "year": 2025
+        },
+        "eTime": {
+            "day": 19,
+            "hour": 12,
+            "minute": 9,
+            "month": 3,
+            "year": 2025
+        },
+        "name": "Имя1\u0000",
+        "text": "тест тест\u0000",
+        "type": "Note"
+    }
+]
